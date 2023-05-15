@@ -1,0 +1,1 @@
+Este projeto ensina linguagem de progação Python
